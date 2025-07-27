@@ -1,0 +1,5 @@
+train: /content/drive/My Drive/FYP/New_data/train/images
+val: /content/drive/My Drive/FYP/New_data/valid/images
+test: /content/drive/My Drive/FYP/New_data/test/images
+nc: 2
+names: ['shelf','void']
